@@ -9,6 +9,7 @@ export class LazyImageComponent implements OnInit {
   @Input()
   public url!: string;
 
+
   @Input()
   public alt!: string;
 
